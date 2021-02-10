@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test name="LoginTest">
         <classes>
-            <class name="mobilepick.LoginTestPick"></class>
+            <class name="test.LoginTest"></class>
         </classes>
     </test>
 </suite>
